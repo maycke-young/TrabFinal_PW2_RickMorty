@@ -1,4 +1,4 @@
-# TrabFinal_PW2_RickMorty
+# Trabalho Final - Disciplina Programação para Web II - Tema Rick & Morty
 
 > **Armazenamento de missões — não implementado:** o armazenamento em banco de dados não foi desenvolvido porque esse requisito não constava na proposta inicial do projeto. Implementá-lo é uma melhoria interessante para uma próxima oportunidade.
 
