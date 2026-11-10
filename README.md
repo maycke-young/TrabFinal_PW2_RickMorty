@@ -1,10 +1,10 @@
 # TrabFinal_PW2_RickMorty
 
-Este README foi elaborado com auxílio de inteligência artificial.
-
 > **Armazenamento de missões — não implementado:** o armazenamento em banco de dados não foi desenvolvido porque esse requisito não constava na proposta inicial do projeto. Implementá-lo é uma melhoria interessante para uma próxima oportunidade.
 
 ## Roteiro de testes
+
+> **Uso de inteligência artificial:** o conteúdo desta seção e das seguintes foi elaborado com auxílio de IA (Copilot Fusion, GPT-6 Luna).
 
 O projeto é composto por três serviços Quarkus: `auth-service`, `status-personagem-service` e `missao-service`. O roteiro abaixo descreve verificações manuais dos endpoints.
 
